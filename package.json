@@ -1,0 +1,23 @@
+{
+  "name": "todo-task-backend",
+  "version": "1.0.0",
+  "description": "todo task manager backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imadmostafa/todo-task-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imadmostafa/todo-task-backend/issues"
+  },
+  "homepage": "https://github.com/imadmostafa/todo-task-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.4.2"
+  }
+}
